@@ -2,10 +2,7 @@
 
 This project is a Backend Course Selling App built using Node.js, Express.js, and MongoDB. It provides a robust backend system for managing online courses, user authentication, and secure API interactions.
 
-[![Node.js Logo](assets/nodejs.svg)](https://nodejs.org/) [![Express.js Logo](assets/express.png)](https://expressjs.com/) [![MongoDB Logo](assets/mongodb.svg)](https://www.mongodb.com/) [![JWT Logo](assets/jwt.svg)](https://jwt.io/)
-
 Key Features
-
 
 *   **Course Management:**
     Built a backend system to handle course creation, updates, and retrieval. Course data is stored and managed efficiently using MongoDB.
@@ -26,5 +23,3 @@ Technologies Used
 *   **MongoDB:** Database for storing course and user data
 *   **JWT:** For secure user authentication
 *   **Middleware:** `body-parser`, `cors`, and custom middleware for request handling
-
-
